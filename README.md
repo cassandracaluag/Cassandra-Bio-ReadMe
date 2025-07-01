@@ -6,7 +6,7 @@
 
 🌊 Currently: I am a Fellow at The Knowledge House (Karim Kharbouch Coding Fellowship), strengthening my skills in product development and UI/UX design by learning industry-standard front-end development software. Within this competitive capstone fellowship, I’m building Harbor - a tech startup and AI-powered wellness app that offers personalized support for mental and physical health. Through KKCF, I hope to build on my full-stack development skills while gaining the confidence and tools to effectively pitch my projects to others. 
 
-# github aspirations
+# github goals
 🥥 With GitHub, I hope to collaborate with my fellow programmers to build software that creates real-world impact. I also aim to gain more confidence in my programming and communication skills through more collaborative projects with GitHub, ultimately preparing me for future endeavors like internships, research opportunities, and prospective jobs.
 
 # tech stack
