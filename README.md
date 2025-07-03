@@ -5,6 +5,7 @@
 🤍 My interests lie in data science, design, and machine learning - fields that allow me to uncover patterns, solve real-world problems, and build intelligent systems. One day, I hope to become a data scientist at a startup or at a competitive big tech company, where I can work on innovative, high-impact projects and help shape technology from the ground up. 
 
 🔬 Classes Taken & Past Tech Experiences: 
+* I taught myself how to code in Python! I became the first student in my entire school district to earn a Python certification.
 * I've challenged AP Computer Science A and AP Computer Science Principles concurrently in my freshman year, in which I passed both exams (with a 5 on AP CSP).
 * I've also participated in two hackathons: Empower Hacks 2.0 and Boost Hacks II (where I won "Best AI Hacks" out of 1,000+ participants!). In these hackathons, I developed Vitality, an AI-powered app geared towards helping first-generation, low-income students with their mental and physical wellbeing.
 * I've developed a deep learning brain tumor detection model with 98% accuracy and a 0.98 F1-score, which earned me first place at my regional science fairs, the Yale Science and Engineering Association Award, and a spot as a state qualifier (Computational Systems: Medical) at the California Science Fair.
