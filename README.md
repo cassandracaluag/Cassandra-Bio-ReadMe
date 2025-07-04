@@ -5,7 +5,7 @@
 🤍 My interests lie in data science, design, and machine learning - fields that allow me to uncover patterns, solve real-world problems, and build intelligent systems. One day, I hope to become a data scientist at a startup or at a competitive big tech company, where I can work on innovative, high-impact projects and help shape technology from the ground up. 
 
 🔬 Classes Taken & Past Tech Experiences: 
-* I taught myself Python and became the first student in my district to earn a certification. As a freshman, I challenged both AP CSA and AP CSP (scoring a 5 on CSP). I’ve competed in hackathons like Empower Hacks 2.0 and Boost Hacks II, where I won Best AI Hack out of 1,000+ participants for Vitality, an AI wellness app for first-gen, low-income students.
+* I taught myself Python and became the first student in my district to earn a certification. As a freshman, I challenged both AP CSA and AP CSP (scoring a 5 on CSP + being the only freshman to pass CSA). I’ve competed in hackathons like Empower Hacks 2.0 and Boost Hacks II, where I won Best AI Hack out of 1,000+ participants for Vitality, an AI wellness app for first-gen, low-income students.
 * I also built a deep learning brain tumor detection model with 98% accuracy and a 0.98 F1-score; won 1st at regionals, the Yale Science & Engineering Award, and qualifying for the California State Science Fair.
 * I was named a 2025 NCWIT California Affiliate Winner, and I’m deeply committed to equity in tech. I teach orphaned youth in Nigeria basic computer science skills through an international nonprofit, and I founded and lead my school’s Girls Who Code chapter to empower girls and gender-expansive youth in STEM.
 
